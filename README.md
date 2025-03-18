@@ -3,74 +3,67 @@
 
 ---
 
-## **About Me**  
+## 🚀 **About Me**  
 🔥 **From the wraith of saints, I’m the demon** who writes code that even the compiler fears.  
-
-🌱 Currently mastering the **MERN stack** (MongoDB, Express, React, Node.js) and building backend systems that are as robust as my sarcasm.  
-
+🌱 Currently mastering **MERN stack** (MongoDB, Express, React, Node.js) while crafting backends as robust as my sarcasm.  
 💻 **C++ enthusiast** – because why write simple code when you can write *complicated* code?  
-
-🎮 **Gaming addict** – I debug games when I’m not debugging my life.  
-
-💡 Passionate about solving problems, breaking things, and then fixing them (sometimes).  
-
-🚀 Always learning, always breaking, always building.  
-
+🎮 **Gaming addict** – debugging games when I’m not debugging my life.  
+💡 Passionate about solving problems, breaking things, and then fixing them (*sometimes*).  
+🚀 Always learning, always building, always breaking (intentionally or otherwise).  
 ---
+## 🛠 **Tech Stack & Skills Till **  
 
-## **Skills**  
-
-### **Backend Development**:  
-- 🛠️ **Node.js** | **Express.js** | **MongoDB** | **REST APIs**  
+### **Backend Development**  
+- ⚡ **Node.js** | **Express.js** | **MongoDB** | **REST APIs**  
 - 🔗 **WebSockets** | **Authentication** | **Middleware Magic**  
-- 🧩 **API Designing** | **API Optimization** | **Error Handling**  
+- 🚀 **API Design** | **Optimization** | **Error Handling**  
 
-### **C++**:  
-- 🧠 **Data Structures** | **Algorithms** | **Memory Management**  
-- ⚙️ **OOP** | **STL** | **Multithreading**  
-
-### **Tools & Tech**:  
+### **C++ & System Design**  
+- 🧠 **Data Structures & Algorithms**  
+- ⚙️ **OOP** | **STL** | **Multithreading**
+- 
+### **Tools & Platforms**  
 - 🛠️ **Git** | **Postman** | **Docker** | **Linux (bit)**  
 - ☁️ **AWS (basics)** | **Firebase** | **Heroku**  
 
 ---
 
-## **What I’m Looking For**  
-- 💞️ **Collaboration**: Looking to team up on **backend projects** that challenge me to push the limits of what’s possible.  
-- 🛠️ **Open Source**: Eager to contribute to projects that are as ambitious as my coffee consumption.  
+## 🎯 **What I’m Looking For**  
+- 💡 **Collaboration**: Looking to team up on **backend projects** that push the boundaries of performance and scalability.  
+- 🔥 **Open Source**: Contributing to projects as ambitious as my coffee consumption.  
 - 🚀 **Innovation**: Passionate about building scalable, efficient, and *slightly over-engineered* systems.  
 
 ---
 
-## **Fun Facts**  
-- 😄 **Pronouns**: He/Him (but my code is gender-neutral).  
-- ⚡ **Fun Fact**: I can debug code faster than you can say *"undefined is not a function."*  
-- 🎮 **Gaming Philosophy**: If it’s not lagging, you’re not trying hard enough.  
+## 🎮 **Fun Facts**  
+- 😄 **Pronouns**: He/Him (*but my code is gender-neutral*).  
+- ⚡ **Quick Fact**: I debug faster than you can say *"undefined is not a function."*  
+- 🎮 **Gaming Mantra**: If it’s not lagging, you’re not trying hard enough.  
 - ☕ **Fuel**: Runs on caffeine, sarcasm, and the occasional existential crisis.  
 
 ---
 
-## **Get in Touch**  
-📫 **Email**: [akshitmudgal001@gmail.com](mailto:akshitmudgal001@gmail.com)  
-🔗 **LinkedIn**: [akshitmudgal001](https://www.linkedin.com/in/akshitmudgal001)  
-💬 **Discord**: (Not yet, but you could be a good reason I start).  
+## 📬 **Get in Touch**  
+📧 **Email**: [akshitmudgal001@gmail.com](mailto:akshitmudgal001@gmail.com)  
+🔗 **LinkedIn**: [annumudgal001](https://www.linkedin.com/in/annumudgal001)  
+💬 **Discord**: annumudgal  
 
 ---
 
-## **Current Status**  
-- � **Coding**: Probably debugging something that *should* work but doesn’t.  
-- 🎮 **Gaming**: Probably raging at a boss fight.  
+## 🔥 **Current Status**  
+- 👨‍💻 **Coding**: Debugging something that *should* work but doesn’t.  
+- 🎮 **Gaming**: Raging at a boss fight.  
 - ☕ **Drinking**: Coffee, because sleep is for the weak.  
 
 ---
 
-## **Quotes I Live By**  
+## 🏆 **Quotes I Live By**  
 
 > ### 🛡️ **"When I cry, it's a war cry."**  
-> *Tears are not a sign of weakness; they’re the battle cry of a warrior rising stronger.*  
+> *Tears aren’t weakness; they’re the battle cry of a warrior rising stronger.*  
 
-> ### 🔥 **"If one passion has the power to redefine your destiny, make it the fire that fuels every beat of your heart."**  
-> *Let your passion burn brighter than your fears, and let it guide you to greatness.*  
+> ### 🔥 **"If one passion can redefine your destiny, let it be the fire that fuels every heartbeat."**  
+> *Passion burns brighter than fear—let it guide you to greatness.*  
 
 > ### ⚔️ **"I was taught how to enter Chakravyuh, not how to escape it. But why would a true warrior seek to escape?"**  
 > *A warrior doesn’t run from challenges; they conquer them.*  
@@ -81,4 +74,4 @@
 ---
 
 ### **Let’s connect and build something epic together! 🚀**  
-                                                                             - **Akshit Mudgal**
+\- **Akshit Mudgal**  
