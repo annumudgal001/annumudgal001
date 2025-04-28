@@ -5,10 +5,10 @@
 
 ### 💥 **"From the wraith of saints, I’m the demon who writes code that even the compiler fears."**
 
-- 🛠️ Building backend systems as solid as my sarcasm.  
-- 🎮 Gaming when I’m not debugging (or maybe I’m debugging games).  
-- 🔧 Mastering **MERN stack** (MongoDB, Express, React, Node.js) and **C++**.  
-- 🚀 I build scalable systems, intentionally breaking things along the way.
+- 🛠️ **Backend Architect**: Crafting scalable systems and REST APIs.  
+- 🎮 **Gaming Master**: Debugging by day, gaming by night (or is it vice-versa?).  
+- 🔧 **Tech Stack Mastery**: MERN stack (MongoDB, Express, React, Node.js) & **C++**.  
+- 🚀 Building performance-driven, robust systems (yes, I break things intentionally to fix them).
 
 ---
 
@@ -29,17 +29,17 @@
 ---
 
 ### 🎯 **What I’m Looking For**  
-- 💡 **Collaboration** on backend projects that push the limits of performance.  
-- 🔥 **Open Source** contributions, fueled by coffee and curiosity.  
-- 🚀 **Innovation** through scalable, over-engineered systems.  
+- 💡 **Collaborative Projects**: Backend systems that challenge performance limits.  
+- 🔥 **Open Source Contributions**: Fueled by curiosity and coffee.  
+- 🚀 **Innovative Solutions**: Over-engineered systems for greater scalability.  
 
 ---
 
 ### 🎮 **Fun Facts**  
-- 🧑‍💻 **Pronouns**: He/Him (*code is gender-neutral*).  
+- 🧑‍💻 **Pronouns**: He/Him (*because code is gender-neutral*).  
 - ⚡ **Quick Fact**: I can debug faster than you can say *"undefined is not a function."*  
 - 🎮 **Gaming Mantra**: *“If it’s not lagging, you’re not trying hard enough.”*  
-- ☕ **Fuel**: Coffee, sarcasm, and the occasional existential crisis.  
+- ☕ **Fuel**: Coffee, sarcasm, and occasional existential crisis.  
 
 ---
 
@@ -75,20 +75,14 @@
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annumudgal001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=annumudgal001&theme=dark&hide_border=false)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annumudgal001&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=annumudgal001&theme=dark&hide_border=true)  
 
 ---
 
-## 🔝 **Top Contributed Repos**  
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=annumudgal001&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🛠 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annumudgal001&theme=dark&hide_border=false&layout=compact)
+## 🔝 **Top Repos**  
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=annumudgal001&limit=4&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=annumudgal001&icon=0&color=0)](https://visitcount.itsvg.in)
-=
